@@ -33,4 +33,11 @@ public class BasicLinkedHashMap {
     }
 }
 
-// output
+/*
+output:
+{John=35, ayush=50, rehan=60, dhruv=100, ansul=40}
+50
+50
+false
+{John=35, rehan=60, dhruv=100, ansul=40}
+*/

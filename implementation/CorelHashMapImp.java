@@ -187,4 +187,14 @@ public class CorelHashMapImp {
     }
 }
 
-// output
+/*
+output:
+100
+true
+false
+4
+ansul
+ayush
+rehan
+dhruv
+*/

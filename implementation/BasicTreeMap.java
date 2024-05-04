@@ -31,5 +31,12 @@ public class BasicTreeMap {
     }
 }
 
-// output
+/*
+output:
+{John=35, ansul=40, ayush=50, dhruv=100, rehan=60}
+50
+50
+false
+{John=35, ansul=40, dhruv=100, rehan=60}
+*/
 
