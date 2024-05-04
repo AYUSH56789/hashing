@@ -32,4 +32,10 @@ public class BasicHashMap {
     }
 }
 
-// output
+/*
+output:
+{rehan=60, ansul=40, John=35, ayush=50, dhruv=100}
+50
+50
+{rehan=60, ansul=40, John=35, dhruv=100}
+ */
