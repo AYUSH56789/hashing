@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class Problem1 {
-    
+
     // overall time complexity : O(N+M) = O(N) -> Because N is dominating factor in
     // this code. In the worst case M = N than overall time complexity is O(2N)
     // where 2 is constant we remove it . so the time complexity in worst case is
@@ -39,7 +39,7 @@ public class Problem1 {
 /*
  * problem: Given an Integer array of size n,find all elements that appears more
  * than [n/3] times?
- * input: arr[]={1,3,2,5,1,3,1,5,1} output: [1]
- * input: arr[]={1,2} output:[1,2]
+ * input: arr[]={1,3,2,5,1,3,1,5,1}        output: [1]
+ * input: arr[]={1,2}                      output:[1,2]
  * 
  */
