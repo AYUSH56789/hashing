@@ -36,7 +36,7 @@ public class BasicHashSet {
 }
 
 /*
-input:
+output:
 [50, 35, 100, 40, 60]
 false
 true
